@@ -71,3 +71,5 @@ Ensure the mobile app runs smoothly and handles real-time alerts effectively.
 6. Documentation:
 Document the setup, code, and instructions for using the system
 
+*OUTPUT*: ![Image](https://github.com/user-attachments/assets/5817009a-e31e-4d04-a2bf-beffb24b7340)
+
